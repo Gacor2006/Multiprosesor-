@@ -1,6 +1,7 @@
 Tugas 6 Organisasi Arsitektur Komputer
 # Multiprosesor Simetris dan Tidak Simetris
-![image](https://github.com/user-attachments/assets/949b1f5f-bb4b-44d8-a5d0-6be40e504d7c)
+![image](https://github.com/user-attachments/assets/8f72c6cd-44ab-4fd7-9e79-2b33c684410e)
+
 Multiprosesor Simetri adalah Semua prosesor punya hak akses yang sama ke memori, ke sistem operasi, dan ke I/O (input/output).
 Setiap prosesor bisa menjalankan semua tugas yang ada. Tidak ada pembagian "bos" dan "anak buah" antar CPU.
 ## ciri-ciri:
