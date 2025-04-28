@@ -10,7 +10,7 @@ Setiap prosesor bisa menjalankan semua tugas yang ada. Tidak ada pembagian "bos"
 4. Kalau satu CPU rusak, sistem bisa tetap jalan dengan CPU lain (lebih tahan gangguan).
 5. Umumnya dipakai di server modern, workstation, dan komputer multi-core.
 
-![image](https://github.com/user-attachments/assets/d3e20d24-eeed-4541-a2c0-0be0ac6ec14b)
+![image](https://github.com/user-attachments/assets/45e594ae-f045-4011-bd06-3df0b3536962)
 Multiprosesor tidak simetris adalah multiprosesor dengan pembagian tugas khusus antar CPU. Biasanya satu prosesor utama (master) yang ngatur, dan prosesor lain (slave) hanya menjalankan perintah.
 ## ciri-ciri
 1. CPU master bertanggung jawab untuk mengelola sistem operasi dan pembagian tugas.
