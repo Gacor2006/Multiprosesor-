@@ -1,6 +1,6 @@
 Tugas 6 Organisasi Arsitektur Komputer
 # Multiprosesor Simetris dan Tidak Simetris
-![AMD Ryzen](https://github.com/user-attachments/assets/51170df1-4772-45dc-a812-b540efcb9ee2)
+![image](https://github.com/user-attachments/assets/5eb9e94e-9641-4b34-9629-63becf3f3878)
 Multiprosesor Simetri adalah Semua prosesor punya hak akses yang sama ke memori, ke sistem operasi, dan ke I/O (input/output).
 Setiap prosesor bisa menjalankan semua tugas yang ada. Tidak ada pembagian "bos" dan "anak buah" antar CPU.
 ## ciri-ciri:
@@ -10,7 +10,7 @@ Setiap prosesor bisa menjalankan semua tugas yang ada. Tidak ada pembagian "bos"
 4. Kalau satu CPU rusak, sistem bisa tetap jalan dengan CPU lain (lebih tahan gangguan).
 5. Umumnya dipakai di server modern, workstation, dan komputer multi-core.
 
-![image](https://github.com/user-attachments/assets/0665d4ae-c87d-496f-8108-915df9fe64d2)
+![image](https://github.com/user-attachments/assets/d3e20d24-eeed-4541-a2c0-0be0ac6ec14b)
 Multiprosesor tidak simetris adalah multiprosesor dengan pembagian tugas khusus antar CPU. Biasanya satu prosesor utama (master) yang ngatur, dan prosesor lain (slave) hanya menjalankan perintah.
 ## ciri-ciri
 1. CPU master bertanggung jawab untuk mengelola sistem operasi dan pembagian tugas.
